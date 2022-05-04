@@ -1,4 +1,4 @@
-# Social network APO
+# Social network API
 
 A professional Social network API
 
